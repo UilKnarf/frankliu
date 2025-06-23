@@ -151,7 +151,7 @@ information.
 ## Credits and Inspiration
 This website template and initial structure are inspired by and adapted from Sean Oliver's personal website template. His work provided an excellent starting point for building a minimalist and performant site.
 
-Original Source: [Link to Sean Oliver's GitHub Repo here] (e.g., https://github.com/seanoliver/seanoliver.dev or the specific template repo if he has one)
+Original Source: [https://github.com/seanoliver/seanoliver.dev]
 
 Sean Oliver's Website: https://seanoliver.dev/
 
