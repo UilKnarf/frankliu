@@ -30,7 +30,7 @@ export default function About(): JSX.Element {
     <Section title='About'>
       <div className='About'>
         <p className='leading-7 [&:not(:first-child)]:mt-6'>
-          After being impacted by the Google layoffs in 2023, I decided to deepen my technical skills, initially to become a better technical recruiter. However, as I delved deeper, I was fascinated by how much could be accomplished with just a single line of code. This passion led me to build my first personal project: an Instagram clone for coffee enthusiasts.
+          After being impacted by Google's layoff in 2023, I decided to deepen my technical skills, initially to become a better technical recruiter. However, as I delved deeper, I was fascinated by how much could be accomplished with just a single line of code. This passion led me to build my first personal project: an Instagram clone for coffee enthusiasts.
         </p>
         <p className='leading-7 [&:not(:first-child)]:mt-6'>
           After scaling teams at {' '}

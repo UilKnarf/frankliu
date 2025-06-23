@@ -1,7 +1,6 @@
 'use client'
 
 import { usePathname } from 'next/navigation'
-import { HamburgerMenu } from './hamburger-menu'
 import { ModeToggle } from './mode-toggle'
 import Nav from './navigation'
 import Section from './Section'
@@ -25,7 +24,6 @@ export default function Header({
           <Nav />
           <div>
             <ModeToggle />
-            <HamburgerMenu />
           </div>
         </div>
       </div>

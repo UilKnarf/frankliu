@@ -1,13 +1,21 @@
+import * as React from 'react'
+
 import {
   GitHubLogoIcon,
   LinkedInLogoIcon,
   TwitterLogoIcon,
-  InstagramLogoIcon,
   ArrowTopRightIcon,
 } from '@radix-ui/react-icons'
 import { Project } from '@/lib/types'
 
-export const NAV_ITEMS = [
+interface NavItem {
+  name: string;
+  url: string;
+  pageLink: string;
+  icon?: React.ReactNode;
+}
+
+export const NAV_ITEMS : NavItem[] = [
   {
     name: 'About',
     url: '#about',
@@ -17,6 +25,7 @@ export const NAV_ITEMS = [
     name: 'Projects',
     url: '#projects',
     pageLink: '/projects',
+    icon: ''
   },
   {
     name: 'Experience',
