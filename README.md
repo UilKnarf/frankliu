@@ -1,11 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <a href="https://github.com/seanoliver/seanoliver-dot-dev">
-    <img src="public/projects/sodev.png" alt="SeanOliver dot dev">
-  </a>
-
-  <h1 align="center">seanoliver [dot] dev</h1>
+  <h1 align="center">Frank L</h1>
 
   <p align="center">
     My minimalist portfolio website built with Next.js, Tailwind CSS, shadcn-ui, and TypeScript.
@@ -122,21 +118,6 @@ portfolio site. Credit is appreciated but not required.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ROADMAP -->
-
-## Roadmap
-
-- [ ] Uses Page
-- [x] Contentlayer Blog
-- [ ] Footer
-- [ ] Sticky Nav
-- [x] Scroll Links (no packages)
-- [x] Social Media Links
-- [ ] TBD: Contact Form
-- [ ] TBD: Project Details Pages
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 
 ## Contributing
@@ -167,18 +148,14 @@ information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTACT -->
+## Credits and Inspiration
+This website template and initial structure are inspired by and adapted from Sean Oliver's personal website template. His work provided an excellent starting point for building a minimalist and performant site.
 
-## Contact
+Original Source: [Link to Sean Oliver's GitHub Repo here] (e.g., https://github.com/seanoliver/seanoliver.dev or the specific template repo if he has one)
 
-Twitter/X: [@SeanOliver](https://twitter.com/SeanOliver)
+Sean Oliver's Website: https://seanoliver.dev/
 
-Project Link:
-[https://github.com/seanoliver/seanoliver-dot-dev](https://github.com/seanoliver/seanoliver-dot-dev)
-
-Live Site: [https://seanoliver.dev/](https://seanoliver.dev/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+I am appreciative of his decision to open-source his work, which significantly helped in kickstarting this project.
 
 <!-- ACKNOWLEDGMENTS -->
 
