@@ -4,7 +4,7 @@
   <h1 align="center">Frank L</h1>
 
   <p align="center">
-    My minimalist portfolio website built with Next.js, Tailwind CSS, shadcn-ui, and TypeScript.
+    A minimalist portfolio website built with Next.js, Tailwind CSS, shadcn-ui, and TypeScript.
     <br />
     <br />
     <a href="https://seanoliver.dev/" target="_blank">View Site</a>
@@ -53,7 +53,7 @@
 
 ## About The Project
 
-This is my minimalist portfolio website built with Next.js, Tailwind CSS,
+This is a minimalist portfolio website built with Next.js, Tailwind CSS,
 shadcn-ui, and TypeScript. It's a great template for a simple personal portfolio
 site, and it's a great way to get familiar with shadcn-ui components,
 TailwindCSS, and Next.js.
