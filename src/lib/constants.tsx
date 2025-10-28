@@ -74,11 +74,11 @@ export const PROJECTS: Project[] = [
     ],
   },
   {
-    name: 'PrepAI(actively building)',
-    url: '',
+    name: 'DSA Visualizer(actively building)',
+    url: 'https://frankdsavisualizer.netlify.app/',
     github: '',
     description:
-      'This project will be an AI-powered interview preparation chatbot that uses a React frontend, Node.js backend, and a large audio-language model like Qwen2-Audio (likely hosted separately) to provide mock interview experiences, convert candidate speech to text, generate questions and feedback, and analyze sentiment for continuous improvement.',
+      'DSA Visualizer is an interactive web application that brings data structures and algorithms to life through clean, minimalist animations. Built with React and TypeScript, it demonstrates why algorithms work—not just how—by visualizing step-by-step logic for lists, recursion, and trees. Designed with a modular architecture, each visualizer has its own engine and wrapper for scalable growth',
     image: '',
     tags: [
 
@@ -93,7 +93,7 @@ export const EXPERIENCES = [
     title: 'Software Engineer',
     company: '100devs',
     logo: '/logos/100dev.png',
-    date: '2024 - Present',
+    date: '2024 - 2025',
     description:
       'Engineered and deployed modern, responsive full-stack web applications with RESTful APIs and MVC/OOP principles, consistently delivering features within an Agile (SCRUM) environment.',
   },
