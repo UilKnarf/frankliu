@@ -79,7 +79,7 @@ export const PROJECTS: Project[] = [
     github: '',
     description:
       'DSA Visualizer is an interactive web application that brings data structures and algorithms to life through clean, minimalist animations. Built with React and TypeScript, it demonstrates why algorithms work—not just how—by visualizing step-by-step logic for lists, recursion, and trees. Designed with a modular architecture, each visualizer has its own engine and wrapper for scalable growth',
-    image: '',
+    image: '/projects/DSA.png',
     tags: [
 
       
