@@ -74,15 +74,15 @@ export const PROJECTS: Project[] = [
     ],
   },
   {
-    name: 'DSA Visualizer(actively building)',
+    name: 'DSA Visualizer(currently polishing and refactoring)',
     url: 'https://frankdsavisualizer.netlify.app/',
     github: '',
     description:
-      'DSA Visualizer is an interactive web application that brings data structures and algorithms to life through clean, minimalist animations. Built with React and TypeScript, it demonstrates why algorithms work—not just how—by visualizing step-by-step logic for lists, recursion, and trees. Designed with a modular architecture, each visualizer has its own engine and wrapper for scalable growth',
+      "As a visual learner, I found that most DSA tools were cluttered and didn’t clearly explain why algorithms behave the way they do. This led me to build a minimalistic and beginner-friendly(as friendly as I can make it) DSA Visualizer that focuses on intuition and algorithmic reasoning. Built with React and TypeScript, the platform shows how different algorithms operate through side-by-side comparisons. For example, users can compare linear search vs. binary search on the same dataset to see how algorithmic efficiency impacts performance. The system uses a modular architecture: each visualizer includes a dedicated engine (algorithm logic) and wrapper (UI orchestration), ensuring clean separation of concerns and making it easy to scale with additional algorithms and data structures.",
     image: '/projects/DSA.png',
     tags: [
-
-      
+      'React',
+      'TypeScript'
     ],
   },
 
