@@ -109,7 +109,7 @@ export const EXPERIENCES = [
     title: 'Technical Recruiter',
     company: 'Google',
     logo: '/logos/google.jpg',
-    date: '2021 - 2023',
+    date: '2021 - 2024',
     description:
       'Successfully recruited diverse talent for critical roles, including L5+ Software Engineers (privacy/safety), Product Managers for high-impact products like Ads and eCommerce, and facilitated internal mobility for Product Managers (L4-L7), consistently optimizing hiring processes and candidate experience.',
   },
