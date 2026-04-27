@@ -90,10 +90,10 @@ export const PROJECTS: Project[] = [
 
 export const EXPERIENCES = [
   {
-    title: 'Software Engineer',
+    title: 'Software Engineer Fellow',
     company: '100devs',
     logo: '/logos/100dev.png',
-    date: '2024 - 2025',
+    date: '2025 - 2026',
     description:
       'Engineered and deployed modern, responsive full-stack web applications with RESTful APIs and MVC/OOP principles, consistently delivering features within an Agile (SCRUM) environment.',
   },
