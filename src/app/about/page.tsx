@@ -30,14 +30,26 @@ export default function About(): JSX.Element {
     <Section title='About'>
       <div className='About'>
         <p className='leading-7 [&:not(:first-child)]:mt-6'>
-          After being impacted by Google's layoff, I decided to deepen my technical skills, initially to become a better technical recruiter. However, as I delved deeper, I was fascinated by how much could be accomplished with just a single line of code. This passion led me to build my first personal project: an Instagram clone for coffee enthusiasts.
+          After being impacted by Google's layoffs, I decided to deepen my technical skills, initially with a simple goal: become a better technical recruiter. 
+          I wanted to understand the engineers I recruited beyond job descriptions and keywords—how they build, debug, collaborate, and solve problems.
+        </p>
+        
+        <p className='leading-7 [&:not(:first-child)]:mt-6'>
+          That curiosity eventually took me much further than I expected. 
+          I learned software engineering fundamentals and began building my own projects, including a full-stack Instagram-inspired platform for coffee enthusiasts and an interactive DSA visualizer. 
+          As a visual learner, I found many existing DSA resources cluttered and difficult to follow, so I built my own minimal, interactive tool to make concepts easier to visualize and understand. 
+          Through these projects, I gained hands-on exposure to the development process and a much deeper understanding of the technical talent I had spent years recruiting.        
         </p>
         <p className='leading-7 [&:not(:first-child)]:mt-6'>
-          After scaling teams at {' '}
+          Before diving into engineering, I built my recruiting career across {' '}
           <UnderLink href='https://www.aerotek.com/en'>Aerotek</UnderLink>,{' '}
           <UnderLink href='https://www.getrocket.com/'>Rocket</UnderLink>,{' '}
           and{' '}
-          <UnderLink href='https://www.google.com/'>Google</UnderLink>, I now bring that same dedication and passion to software engineering. Today, my focus is on frontend development, driven by a deep commitment to user experience. I approach crafting intuitive and engaging interfaces with the same care and attention I once prioritized for candidate experience.
+          <UnderLink href='https://www.google.com/'>Google</UnderLink>, supporting everything from high-volume hiring to specialized software engineering and product searches. 
+            I’ve partnered with hiring leaders, built pipelines for difficult-to-fill roles, and helped improve recruiting processes along the way.
+            Today, I’m bringing those two experiences together. 
+            I’m a technical recruiter who understands recruiting deeply and has taken the time to learn how software is actually built. 
+            I enjoy learning new technical domains, translating complex hiring needs into effective recruiting strategies, and building relationships with the engineers and leaders I support.
         </p>
  
       </div>
